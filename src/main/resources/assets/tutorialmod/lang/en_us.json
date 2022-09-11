@@ -2,6 +2,9 @@
   "item.tutorialmod.raw_tanzanite": "Raw Tanzanite",
   "item.tutorialmod.tanzanite": "Tanzanite",
   "item.tutorialmod.black_amongus": "Black Among us",
-
+  "item.tutorialmod.among_us": "Among us",
+  "block.tutorialmod.tanzanite_block": "Block of tanzanite",
+  "block.tutorialmod.tanzanite_ore": "Tanzanite ore",
+  "block.tutorialmod.coca_cola_block" : "Lata de Coca cola",
   "itemGroup.tutorialmod.tanzanite" : "grupo de Tanzanites y among us"
 }

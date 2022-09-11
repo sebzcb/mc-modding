@@ -1,0 +1,30 @@
+Esta explicacion es de los bloques
+{
+  "parent": "block/cube_all", ->
+  "textures": {
+    "all": "tutorialmod:block/tanzanite_block" -> dice en la carpeta tutorialmod busca block y entra en tanzanite_block.png
+  }
+}
+Explicacion item black amongus
+{
+  "parent":"item/generated",
+  "textures":{
+    "layer0": "tutorialmod:item/black_amongus" -> entra en tutorialmod y busca item y entra en black_amongus.png
+  }
+}
+
+
+TUTORIALMOD
+carpeta blockstates
+carpeta lang
+carpeta models -> carpeta item -> hace que aparezca los items en el inventario
+carpeta textures-> imagenes de los items/bloques
+
+
+Posibles errores:
+
+si no se ve el bloque al ponerlo, pero se ve en el inventario -> problema en el blockstate (fallo sintaxis)
+si se ve el bloque al ponerlo, pero no se ve bien en el inventario -> problema en carpeta item (jsons)
+
+parent -> en carpeta blockstate
+parents -> en carpeta item

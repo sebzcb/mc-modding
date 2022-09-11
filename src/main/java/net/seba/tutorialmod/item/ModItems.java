@@ -3,6 +3,8 @@ package net.seba.tutorialmod.item;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
 //import net.minecraft.item.ItemGroup; //poner o dejarlo como comentario dependiendo del group
+import net.minecraft.item.ItemConvertible;
+import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import net.seba.tutorialmod.TutorialMod;
@@ -27,5 +29,5 @@ public class ModItems {
 
     //objeto nuevo
     public static final Item BLACKAMONGUS = registerItem("black_amongus",new Item(new FabricItemSettings().group(ModItemGroup.TANZANITE)));
-
+    public static final Item AMONG_US = registerItem("among_us",new Item(new FabricItemSettings().group(ModItemGroup.AMONG_US)));
 }
