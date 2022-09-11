@@ -1,6 +1,7 @@
 {
   "item.tutorialmod.raw_tanzanite": "Raw Tanzanite",
   "item.tutorialmod.tanzanite": "Tanzanite",
+  "item.tutorialmod.black_amongus": "Black Among us",
 
-  "itemGroup.tutorialmod.tanzanite" : "Tanzanite tutorial tab"
+  "itemGroup.tutorialmod.tanzanite" : "grupo de Tanzanites y among us"
 }
