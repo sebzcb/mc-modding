@@ -26,6 +26,7 @@ public class ModBlocks {
     //agregar segundo block
     /*OreBlock -> da experiencia cuando se mina
     UniformIntProvider.create(3,7) -> cantidad de experiencia que se dara
+    strenght -> duracion del bloque al ser picado
     ore->  mineral
     * */
     public static final Block TANZANITE_ORE = registerBlock("tanzanite_ore",

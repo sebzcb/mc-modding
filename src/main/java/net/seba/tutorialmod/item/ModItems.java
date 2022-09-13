@@ -28,6 +28,10 @@ public class ModItems {
     public static final Item TANZANITE = registerItem("tanzanite", new Item(new FabricItemSettings().group(ModItemGroup.TANZANITE)));
 
     //objeto nuevo
-    public static final Item BLACKAMONGUS = registerItem("black_amongus",new Item(new FabricItemSettings().group(ModItemGroup.TANZANITE)));
+    public static final Item BLACK_AMONGUS = registerItem("black_amongus",new Item(new FabricItemSettings().group(ModItemGroup.AMONG_US)));
+
+    public static final Item YELLOW_AMONGUS = registerItem("yellow_amongus",new Item (new FabricItemSettings().group(ModItemGroup.AMONG_US)));
+
+    //ModItemGroup.AMONG_US
     public static final Item AMONG_US = registerItem("among_us",new Item(new FabricItemSettings().group(ModItemGroup.AMONG_US)));
 }
