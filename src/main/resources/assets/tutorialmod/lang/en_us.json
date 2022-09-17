@@ -4,10 +4,13 @@
   "item.tutorialmod.black_amongus": "Black Among us",
   "item.tutorialmod.among_us": "Among us",
   "item.tutorialmod.yellow_amongus" : "Yellow Among us",
-
-  "block.tutorialmod.tanzanite_block": "Block of tanzanite",
-  "block.tutorialmod.tanzanite_ore": "Tanzanite ore",
+  "item.tutorialmod.raw_among_us_red" : "Among us rojo en bruto",
+  "block.tutorialmod.tanzanite_block": "Bloque de tanzanite",
+  "block.tutorialmod.tanzanite_ore": "Mineral de Tanzanite",
   "block.tutorialmod.coca_cola_block" : "Lata de Coca cola",
+  "block.tutorialmod.deepslate_tanzanite_ore": "Deepslate mineral de tanzanite",
+  "block.tutorialmod.among_us_red_ore" : "Mineral de among us rojo",
+  "block.tutorialmod.among_us_red_block" : "Bloque de among us rojo",
 
   "itemGroup.tutorialmod.tanzanite" : "Grupo de Tanzanites y among us",
   "itemGroup.tutorialmod.among_us": "Grupo de among us"

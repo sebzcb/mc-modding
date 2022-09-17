@@ -16,6 +16,8 @@ public class ModItems {
     private static Item registerItem(String name, Item item){
         return Registry.register(Registry.ITEM,new Identifier(TutorialMod.MOD_ID,name),item);
     }
+    public static final Item RAW_AMONG_US_RED = registerItem("raw_among_us_red", new Item(new FabricItemSettings().group(ModItemGroup.AMONG_US)));
+
     /*El en el caso 1 se agrega un item "raw_tanzanite" al grupo de MISC (miscelaneos)
     En el caso 2 se agrega un item al grupo creado por mi en ModItemGroup
     */

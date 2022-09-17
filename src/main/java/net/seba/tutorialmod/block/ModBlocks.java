@@ -15,6 +15,17 @@ import net.seba.tutorialmod.TutorialMod;
 import net.seba.tutorialmod.item.ModItemGroup;
 
 public class ModBlocks {
+    public static final Block AMONG_US_RED_ORE = registerBlock("among_us_red_ore",
+            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool(),
+                    UniformIntProvider.create(3, 7)), ModItemGroup.AMONG_US);
+
+    public static final Block AMONG_US_RED_BLOCK = registerBlock("among_us_red_block",
+            new OreBlock(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool(),
+                    UniformIntProvider.create(3, 7)), ModItemGroup.AMONG_US);
+
+    public static final Block DEEPSLATE_TANZANITE_ORE = registerBlock("deepslate_tanzanite_ore",
+            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool(),
+                    UniformIntProvider.create(3, 7)), ModItemGroup.TANZANITE);
     //fourth step
     /*
     FabricBlockSettings.of(). -> experimentar

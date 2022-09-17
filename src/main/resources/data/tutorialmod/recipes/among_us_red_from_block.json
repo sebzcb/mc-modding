@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:among_us_red_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:among_us",
+    "count": 9
+  }
+}

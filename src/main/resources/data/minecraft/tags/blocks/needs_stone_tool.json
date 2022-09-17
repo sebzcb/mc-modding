@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-
+    "tutorialmod:among_us_red_ore",
+    "tutorialmod:among_us_red_block"
   ]
 }
